@@ -5,7 +5,7 @@ imap <C-k> <esp> :bn<CR> i
 
 " Basics {
     set background=light " we plan to use a dark background
-    colorscheme macvim
+    colorscheme zenburn
     set nocompatible " explicitly get out of vi-compatible mode
     set noexrc " don't use local version of .(g)vimrc, .exrc
     set cpoptions=aABceFsmq
